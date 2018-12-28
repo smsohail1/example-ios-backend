@@ -5,7 +5,7 @@
   "keywords": ["ios", "stripe"],
   "env": {
     "STRIPE_TEST_SECRET_KEY": {
-      "description": "Find this at https://dashboard.stripe.com/account/apikeys (it'll look like sk_test_****)",
+      "description": "hgghgh",
       "required": true
     }
   }
